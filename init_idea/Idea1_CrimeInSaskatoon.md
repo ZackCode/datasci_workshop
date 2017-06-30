@@ -10,5 +10,5 @@ http://www.communityview.ca/Catalogue/ResourceList/Browse/2
 Given data sets on crime, population from 2003 to 2015,
 1. Conduct a summary of crime data for communities
 2. Try to identify the factors leading to high crime rate for most common crime types.
-## Pos and Cons
-Cons: The record is only consistent with criminal record and population. For other records, some years are missing
+## Questions
+The record is only consistent with criminal record and population. For other records, some years are missing
