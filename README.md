@@ -3,3 +3,4 @@ This is a folder for my projects/documents on springboard data science career tr
 
 ## list of documents
 folder init_idea contains my inital ideas for capstone projects.
+folder call_agenda contains my call agendas.
