@@ -1,6 +1,6 @@
 # datasci_workshop
 
-This repository contains my notes and support documents for the data science career tack course from Springboard.com. It also serves as an index for my capstone projects, my mini-projects for data science career track course in Springboard.com.
+This repository contains my notes and support documents for the data science career tack course from Springboard.com. It also serves as an index (and a showcase) for my capstone projects, my mini-projects for data science career track course on Springboard.com mainly, and on other courses or projects.
 
 ## Capstone Projects
 
