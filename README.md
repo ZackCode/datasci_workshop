@@ -53,6 +53,10 @@ Project Location: https://github.com/ZackCode/mini_project_naive_bayes
 4. Customer Segmentation Using Clustering:
 Project Location: https://github.com/ZackCode/mini_project_clustering
 
+### Section 18 Data Science at Scale
+1. MapReduce with Spark:
+Project Location: https://github.com/ZackCode/spark
+
 ## Support Documents
 
 To be added
